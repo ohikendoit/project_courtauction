@@ -1,6 +1,5 @@
 Hello world!
 
-This is a project initiated by SunA & ohikendoit since October 2022.
+This is a project initiated by SunA & ohikendoit since December 2022.
 
-- Notion Page: https://ohikendoit.notion.site/39cf33ef8e5746adb100826363162021
-- Moqups App: https://app.moqups.com/q5TqaYEOERRZLcnMrSZgVQVVDjMS15NH/edit/page/a3ac5ac88
+- Notion Page: https://www.notion.so/0b5ce4d04cf6449cbdef6970122daf1e "법원 경매 사이트 재구성 프로젝트"
